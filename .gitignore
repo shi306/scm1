@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.o
+*.out
+*.exe
+
+# Ignore log files and temp files
+*.log
+/temp/
+
+# Ignore environment files
+.env
+
+y
+
+
